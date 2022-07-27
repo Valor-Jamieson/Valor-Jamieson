@@ -2,5 +2,8 @@
 output: html_document
 ---
 
-# <span style="text-decoration: underline">Valor Augustus Jamieson</span>
+<h1 style="text-align: center;">
+    Valor Augustus Jamieson
+</h1>
+
 
