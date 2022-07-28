@@ -1,6 +1,7 @@
 ---
 output: html_document
 ---
+
 <style type="text/css";>
   body {
     background-color: #405b76
@@ -21,10 +22,13 @@ output: html_document
   .tab {margin-left: 40px;}
 </style>
 
+<head>
+  <title> Home Page of Val Jamieson</title>
+</head>
+
 <h1 style="text-align: left;">
   __Valor Augustus Jamieson__
 </h1>
-
 
 <div>
   <img style="float: left;" src="./images/headshot.jpg" alt="An image of a woman with medium length hair standing in front of the ocean." width="15%">
