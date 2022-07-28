@@ -1,4 +1,5 @@
 ---
+pagetitle: Home Page of Valor Jamieson
 output: html_document
 ---
 
@@ -38,4 +39,4 @@ output: html_document
   </font></p>
 </div>
 
-<p style="position: absolute; bottom: 0; left: 0; width: 100%; text-align: center;">Last modified: July 27, 2022</p>	
+<p style="position: absolute; bottom: 0; left: 0; width: 100%; text-align: center;">Last modified: July 28, 2022</p>	
