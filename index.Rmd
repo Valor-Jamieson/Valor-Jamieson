@@ -1,7 +1,6 @@
 ---
 output: html_document
 ---
-
 <style type="text/css";>
   body {
     background-color: #405b76
@@ -14,15 +13,29 @@ output: html_document
   p {
     color: #aeaeae;
   }
+  
+  img {
+    float:left;
+  }
+
+  .tab {margin-left: 40px;}
 </style>
-<h1 style="text-align: center;">
-    __Valor Augustus Jamieson__
+
+<h1 style="text-align: left;">
+  __Valor Augustus Jamieson__
 </h1>
 
-<p style = "text-align: center;">
-  Val A. Jamieson <br>
-  4th year, Data Science B.S.
-</p>
+
+<div>
+  <img style="float: left;" src="./images/headshot.jpg" alt="An image of a woman with medium length hair standing in front of the ocean." width="15%">
+</div>
+
+<div>
+  <p style = "margin-left: 50px;"><font size="4">
+    &#9830; __Val A. Jamieson__ <br>
+    &#9830; 4th year, Data Science B.S. <br>
+    &#9830;
+  </font></p>
+</div>
 
 <p style="position: absolute; bottom: 0; left: 0; width: 100%; text-align: center;">Last modified: July 27, 2022</p>	
-
